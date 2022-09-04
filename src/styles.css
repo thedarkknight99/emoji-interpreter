@@ -1,0 +1,29 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin-top: 2.5rem;
+}
+body {
+  background-color: #34d399;
+}
+h1 {
+  color: #064e3b;
+}
+input {
+  margin: 2rem;
+  padding: 1rem;
+  width: 60%;
+  border-radius: 1rem;
+  background-color: #f3f4f6;
+  font-size: 1.5rem;
+}
+.meaning {
+  font-size: 1.5rem;
+}
+
+.emojiList {
+  margin: 5px;
+  padding: 5px;
+  cursor: pointer;
+  font-size: 2rem;
+}
